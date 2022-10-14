@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Alert dialog</string>
+    <string name="messagewait">Please wait</string>
+
+</resources>
